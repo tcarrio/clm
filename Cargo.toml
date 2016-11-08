@@ -1,0 +1,5 @@
+[package]
+
+name = "caps_lock_manipulator"
+version = "0.0.1"
+authors = [ "Tom Carrio <tom@carrio.me>" ]
